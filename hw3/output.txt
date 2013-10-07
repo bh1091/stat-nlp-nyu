@@ -2683,7 +2683,7 @@ Do	VBP
 n't	RB
 Let	VB
 This	DT
-Pass	FW
+Pass	UH
 You	PRP
 By	IN
 Without	IN
@@ -2708,7 +2708,7 @@ Income	NNP
 ABOVE	UH
 $	$
 21,000	CD
-......	CD
+......	NNP
 And	CC
 ......	FW
 You	PRP
@@ -4095,7 +4095,7 @@ with	IN
 arranging	VBG
 "	NN
 spiritual	NN
-"	CD
+"	NN
 marriages	NNS
 for	IN
 girls	NNS
@@ -4482,7 +4482,7 @@ law	NN
 enforcement	NN
 has	VBZ
 dragged	VBN
-it's	NNS
+it's	VBZ
 feet	NNS
 when	WRB
 members	NNS
@@ -4533,8 +4533,8 @@ often	RB
 close	VB
 relatives	NNS
 that	IN
-enfurates	NNS
-me	FW
+enfurates	VBZ
+me	PRP
 .	.
 
 Also	RB
@@ -7137,7 +7137,7 @@ information	NN
 
 http://en.wikipedia.org/wiki/John_Balance	NNP
 
-http://www.guardian.co.uk/obituaries/story/0,3604,1371372,00.html	JJ
+http://www.guardian.co.uk/obituaries/story/0,3604,1371372,00.html	NN
 
 Balance	NNP
 died	VBD
@@ -7846,7 +7846,7 @@ out	NN
 and	CC
 compartmentalize	VB
 personal	JJ
-spiritual	JJ
+spiritual	NN
 and	CC
 political	JJ
 systems	NNS
@@ -8844,8 +8844,8 @@ is	VBZ
 based	VBN
 upon	IN
 the	DT
-hymn	VB
-called	VBN
+hymn	NN
+called	VBD
 ,	,
 '	POS
 A	NNP
@@ -10559,7 +10559,7 @@ the	DT
 Shiites	NNPS
 already	RB
 hate	VBP
-al	JJ
+al	NN
 -	HYPH
 Qaeda	NNP
 and	CC
@@ -15660,7 +15660,7 @@ wagon	NN
 though	IN
 with	IN
 that	DT
-pretzel	JJ
+pretzel	NN
 incident	NN
 ,	,
 you	PRP
@@ -17201,7 +17201,7 @@ the	DT
 sheikh	NN
 of	IN
 the	DT
-mujahideen	NN
+mujahideen	NNS
 Osama	NNP
 bin	NN
 Laden	NNP
@@ -18000,7 +18000,7 @@ Fallujah	NNP
 Remember	VB
 that	IN
 the	DT
-Occupation	NNP
+Occupation	NN
 is	VBZ
 emphemeral	JJ
 .	.
