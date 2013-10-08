@@ -1,0 +1,447 @@
+Evaluating on in-domain data:.
+Tag Accuracy: 0.9505301247501202 (Unknown Accuracy: 0.874356333676622)  Decoder Suboptimalities Detected: 0
+Gold : HYPH Guess : SYM    Count : 3.0
+-------------------
+Gold : JJ Guess : IN    Count : 9.0
+Gold : JJ Guess : RB    Count : 26.0
+Gold : JJ Guess : DT    Count : 1.0
+Gold : JJ Guess : RP    Count : 9.0
+Gold : JJ Guess : VBG    Count : 8.0
+Gold : JJ Guess : VBD    Count : 4.0
+Gold : JJ Guess : LS    Count : 6.0
+Gold : JJ Guess : FW    Count : 4.0
+Gold : JJ Guess : JJR    Count : 3.0
+Gold : JJ Guess : UH    Count : 1.0
+Gold : JJ Guess : NN    Count : 72.0
+Gold : JJ Guess : VBN    Count : 17.0
+Gold : JJ Guess : VB    Count : 4.0
+Gold : JJ Guess : VBP    Count : 1.0
+Gold : JJ Guess : PDT    Count : 18.0
+Gold : JJ Guess : CD    Count : 1.0
+Gold : JJ Guess : NNP    Count : 40.0
+-------------------
+Gold : RB Guess : IN    Count : 37.0
+Gold : RB Guess : JJ    Count : 40.0
+Gold : RB Guess : DT    Count : 1.0
+Gold : RB Guess : RP    Count : 50.0
+Gold : RB Guess : EX    Count : 3.0
+Gold : RB Guess : RBR    Count : 3.0
+Gold : RB Guess : LS    Count : 2.0
+Gold : RB Guess : FW    Count : 2.0
+Gold : RB Guess : UH    Count : 5.0
+Gold : RB Guess : NN    Count : 10.0
+Gold : RB Guess : VB    Count : 5.0
+Gold : RB Guess : PDT    Count : 4.0
+Gold : RB Guess : CC    Count : 5.0
+Gold : RB Guess : NNP    Count : 1.0
+Gold : RB Guess : WDT    Count : 1.0
+-------------------
+Gold : TO Guess : IN    Count : 4.0
+-------------------
+Gold : DT Guess : IN    Count : 13.0
+Gold : DT Guess : PDT    Count : 55.0
+Gold : DT Guess : CC    Count : 4.0
+Gold : DT Guess : JJ    Count : 1.0
+Gold : DT Guess : NNP    Count : 2.0
+Gold : DT Guess : RB    Count : 7.0
+Gold : DT Guess : PRP    Count : 1.0
+Gold : DT Guess : LS    Count : 4.0
+Gold : DT Guess : FW    Count : 1.0
+Gold : DT Guess : WDT    Count : 7.0
+Gold : DT Guess : UH    Count : 4.0
+-------------------
+Gold : RP Guess : IN    Count : 20.0
+Gold : RP Guess : RB    Count : 8.0
+Gold : RP Guess : FW    Count : 2.0
+Gold : RP Guess : NN    Count : 1.0
+-------------------
+Gold : RBR Guess : JJ    Count : 2.0
+Gold : RBR Guess : RB    Count : 9.0
+Gold : RBR Guess : RBS    Count : 1.0
+Gold : RBR Guess : JJR    Count : 30.0
+-------------------
+Gold : RBS Guess : JJS    Count : 3.0
+-------------------
+Gold : LS Guess : NNP    Count : 2.0
+Gold : LS Guess : DT    Count : 1.0
+-------------------
+Gold : JJS Guess : JJ    Count : 1.0
+Gold : JJS Guess : RBS    Count : 4.0
+-------------------
+Gold : JJR Guess : NNP    Count : 2.0
+Gold : JJR Guess : RBR    Count : 13.0
+-------------------
+Gold : NN Guess : IN    Count : 1.0
+Gold : NN Guess : JJ    Count : 91.0
+Gold : NN Guess : RB    Count : 5.0
+Gold : NN Guess : AFX    Count : 1.0
+Gold : NN Guess : RP    Count : 11.0
+Gold : NN Guess : VBG    Count : 42.0
+Gold : NN Guess : VBD    Count : 2.0
+Gold : NN Guess : LS    Count : 2.0
+Gold : NN Guess : JJS    Count : 1.0
+Gold : NN Guess : JJR    Count : 2.0
+Gold : NN Guess : VB    Count : 21.0
+Gold : NN Guess : VBN    Count : 3.0
+Gold : NN Guess : NNS    Count : 3.0
+Gold : NN Guess : VBP    Count : 4.0
+Gold : NN Guess : PDT    Count : 8.0
+Gold : NN Guess : CD    Count : 7.0
+Gold : NN Guess : NNP    Count : 72.0
+Gold : NN Guess : PRP    Count : 1.0
+Gold : NN Guess : MD    Count : 5.0
+-------------------
+Gold : NNPS Guess : NNS    Count : 5.0
+Gold : NNPS Guess : NNP    Count : 6.0
+Gold : NNPS Guess : POS    Count : 5.0
+Gold : NNPS Guess : NN    Count : 5.0
+-------------------
+Gold : VB Guess : IN    Count : 1.0
+Gold : VB Guess : JJ    Count : 5.0
+Gold : VB Guess : AFX    Count : 3.0
+Gold : VB Guess : VBG    Count : 2.0
+Gold : VB Guess : VBD    Count : 2.0
+Gold : VB Guess : JJR    Count : 2.0
+Gold : VB Guess : FW    Count : 2.0
+Gold : VB Guess : NN    Count : 22.0
+Gold : VB Guess : UH    Count : 4.0
+Gold : VB Guess : VBN    Count : 2.0
+Gold : VB Guess : VBP    Count : 44.0
+Gold : VB Guess : PDT    Count : 1.0
+Gold : VB Guess : NNP    Count : 6.0
+-------------------
+Gold : VBN Guess : VB    Count : 2.0
+Gold : VBN Guess : JJ    Count : 91.0
+Gold : VBN Guess : NNP    Count : 5.0
+Gold : VBN Guess : CD    Count : 2.0
+Gold : VBN Guess : VBD    Count : 42.0
+Gold : VBN Guess : NN    Count : 1.0
+-------------------
+Gold : VBP Guess : VB    Count : 17.0
+Gold : VBP Guess : IN    Count : 1.0
+Gold : VBP Guess : NNP    Count : 3.0
+Gold : VBP Guess : VBD    Count : 1.0
+Gold : VBP Guess : UH    Count : 8.0
+Gold : VBP Guess : NN    Count : 10.0
+-------------------
+Gold : PRP Guess : CD    Count : 2.0
+Gold : PRP Guess : VBZ    Count : 1.0
+-------------------
+Gold : SYM Guess : HYPH    Count : 4.0
+-------------------
+Gold : MD Guess : VBD    Count : 1.0
+Gold : MD Guess : NN    Count : 1.0
+-------------------
+Gold : WDT Guess : IN    Count : 17.0
+-------------------
+Gold : VBZ Guess : NNS    Count : 28.0
+Gold : VBZ Guess : NNP    Count : 1.0
+Gold : VBZ Guess : POS    Count : 14.0
+-------------------
+Gold : IN Guess : JJ    Count : 1.0
+Gold : IN Guess : CC    Count : 3.0
+Gold : IN Guess : RB    Count : 46.0
+Gold : IN Guess : DT    Count : 9.0
+Gold : IN Guess : TO    Count : 201.0
+Gold : IN Guess : RP    Count : 30.0
+Gold : IN Guess : FW    Count : 4.0
+Gold : IN Guess : WDT    Count : 14.0
+Gold : IN Guess : NN    Count : 2.0
+-------------------
+Gold : '' Guess : POS    Count : 2.0
+-------------------
+Gold : VBG Guess : NNPS    Count : 2.0
+Gold : VBG Guess : VB    Count : 1.0
+Gold : VBG Guess : JJ    Count : 25.0
+Gold : VBG Guess : NNP    Count : 6.0
+Gold : VBG Guess : NN    Count : 56.0
+-------------------
+Gold : POS Guess : VBZ    Count : 1.0
+-------------------
+Gold : VBD Guess : VB    Count : 1.0
+Gold : VBD Guess : VBN    Count : 90.0
+Gold : VBD Guess : VBP    Count : 2.0
+Gold : VBD Guess : JJ    Count : 12.0
+Gold : VBD Guess : NNP    Count : 2.0
+Gold : VBD Guess : MD    Count : 1.0
+Gold : VBD Guess : NN    Count : 3.0
+-------------------
+Gold : , Guess : .    Count : 1.0
+-------------------
+Gold : PRP$ Guess : NNP    Count : 1.0
+-------------------
+Gold : UH Guess : CD    Count : 2.0
+Gold : UH Guess : NN    Count : 3.0
+-------------------
+Gold : NNS Guess : NNPS    Count : 32.0
+Gold : NNS Guess : JJ    Count : 1.0
+Gold : NNS Guess : NNP    Count : 15.0
+Gold : NNS Guess : WRB    Count : 2.0
+Gold : NNS Guess : UH    Count : 2.0
+Gold : NNS Guess : NN    Count : 6.0
+Gold : NNS Guess : VBZ    Count : 22.0
+-------------------
+Gold : CC Guess : RB    Count : 2.0
+Gold : CC Guess : DT    Count : 1.0
+-------------------
+Gold : CD Guess : NNS    Count : 1.0
+Gold : CD Guess : JJ    Count : 1.0
+Gold : CD Guess : NNP    Count : 2.0
+Gold : CD Guess : PRP    Count : 1.0
+Gold : CD Guess : LS    Count : 31.0
+Gold : CD Guess : NN    Count : 9.0
+-------------------
+Gold : NNP Guess : NNPS    Count : 103.0
+Gold : NNP Guess : VB    Count : 3.0
+Gold : NNP Guess : NNS    Count : 10.0
+Gold : NNP Guess : $    Count : 2.0
+Gold : NNP Guess : JJ    Count : 15.0
+Gold : NNP Guess : RB    Count : 1.0
+Gold : NNP Guess : VBG    Count : 2.0
+Gold : NNP Guess : RP    Count : 1.0
+Gold : NNP Guess : POS    Count : 4.0
+Gold : NNP Guess : LS    Count : 1.0
+Gold : NNP Guess : FW    Count : 3.0
+Gold : NNP Guess : NN    Count : 33.0
+-------------------
+Gold : : Guess : HYPH    Count : 1.0
+-------------------
+Evaluating on out-of-domain data:.
+Tag Accuracy: 0.9225955061063063 (Unknown Accuracy: 0.7543035993740219)  Decoder Suboptimalities Detected: 0
+Gold : HYPH Guess : :    Count : 1.0
+Gold : HYPH Guess : SYM    Count : 6.0
+-------------------
+Gold : JJ Guess : VB    Count : 12.0
+Gold : JJ Guess : VBN    Count : 46.0
+Gold : JJ Guess : VBP    Count : 1.0
+Gold : JJ Guess : PDT    Count : 9.0
+Gold : JJ Guess : NNP    Count : 122.0
+Gold : JJ Guess : RB    Count : 14.0
+Gold : JJ Guess : DT    Count : 1.0
+Gold : JJ Guess : VBG    Count : 3.0
+Gold : JJ Guess : JJS    Count : 2.0
+Gold : JJ Guess : LS    Count : 2.0
+Gold : JJ Guess : JJR    Count : 3.0
+Gold : JJ Guess : NN    Count : 40.0
+-------------------
+Gold : RB Guess : NNS    Count : 4.0
+Gold : RB Guess : PDT    Count : 4.0
+Gold : RB Guess : IN    Count : 30.0
+Gold : RB Guess : JJ    Count : 22.0
+Gold : RB Guess : NNP    Count : 5.0
+Gold : RB Guess : DT    Count : 5.0
+Gold : RB Guess : EX    Count : 5.0
+Gold : RB Guess : RP    Count : 28.0
+Gold : RB Guess : RBR    Count : 1.0
+Gold : RB Guess : LS    Count : 7.0
+Gold : RB Guess : NN    Count : 13.0
+Gold : RB Guess : UH    Count : 10.0
+-------------------
+Gold : TO Guess : IN    Count : 9.0
+-------------------
+Gold : DT Guess : IN    Count : 10.0
+Gold : DT Guess : PDT    Count : 26.0
+Gold : DT Guess : CC    Count : 1.0
+Gold : DT Guess : NNP    Count : 1.0
+Gold : DT Guess : RB    Count : 3.0
+Gold : DT Guess : LS    Count : 5.0
+Gold : DT Guess : WDT    Count : 8.0
+Gold : DT Guess : UH    Count : 5.0
+-------------------
+Gold : NFP Guess : NN    Count : 2.0
+-------------------
+Gold : RP Guess : IN    Count : 3.0
+Gold : RP Guess : RB    Count : 2.0
+-------------------
+Gold : RBR Guess : RB    Count : 2.0
+Gold : RBR Guess : JJR    Count : 4.0
+-------------------
+Gold : RBS Guess : RB    Count : 1.0
+Gold : RBS Guess : JJS    Count : 1.0
+-------------------
+Gold : LS Guess : CD    Count : 4.0
+-------------------
+Gold : JJS Guess : RB    Count : 1.0
+Gold : JJS Guess : RBS    Count : 1.0
+-------------------
+Gold : FW Guess : VB    Count : 2.0
+Gold : FW Guess : VBP    Count : 2.0
+Gold : FW Guess : JJ    Count : 2.0
+Gold : FW Guess : DT    Count : 2.0
+Gold : FW Guess : JJS    Count : 2.0
+Gold : FW Guess : NN    Count : 4.0
+-------------------
+Gold : JJR Guess : RBR    Count : 4.0
+-------------------
+Gold : NN Guess : $    Count : 3.0
+Gold : NN Guess : JJ    Count : 61.0
+Gold : NN Guess : RB    Count : 3.0
+Gold : NN Guess : AFX    Count : 2.0
+Gold : NN Guess : DT    Count : 1.0
+Gold : NN Guess : VBG    Count : 25.0
+Gold : NN Guess : RP    Count : 2.0
+Gold : NN Guess : JJS    Count : 2.0
+Gold : NN Guess : FW    Count : 16.0
+Gold : NN Guess : JJR    Count : 5.0
+Gold : NN Guess : UH    Count : 4.0
+Gold : NN Guess : NNPS    Count : 3.0
+Gold : NN Guess : VBN    Count : 1.0
+Gold : NN Guess : VB    Count : 22.0
+Gold : NN Guess : NNS    Count : 26.0
+Gold : NN Guess : PDT    Count : 2.0
+Gold : NN Guess : VBP    Count : 5.0
+Gold : NN Guess : NNP    Count : 75.0
+Gold : NN Guess : CD    Count : 5.0
+-------------------
+Gold : NNPS Guess : NNS    Count : 14.0
+Gold : NNPS Guess : NNP    Count : 83.0
+Gold : NNPS Guess : UH    Count : 2.0
+Gold : NNPS Guess : VBZ    Count : 2.0
+-------------------
+Gold : VB Guess : VBN    Count : 2.0
+Gold : VB Guess : VBP    Count : 66.0
+Gold : VB Guess : JJ    Count : 5.0
+Gold : VB Guess : RB    Count : 1.0
+Gold : VB Guess : CD    Count : 2.0
+Gold : VB Guess : NNP    Count : 6.0
+Gold : VB Guess : AFX    Count : 1.0
+Gold : VB Guess : UH    Count : 1.0
+Gold : VB Guess : NN    Count : 23.0
+-------------------
+Gold : VBN Guess : VB    Count : 2.0
+Gold : VBN Guess : JJ    Count : 30.0
+Gold : VBN Guess : RB    Count : 1.0
+Gold : VBN Guess : VBD    Count : 40.0
+Gold : VBN Guess : NN    Count : 2.0
+-------------------
+Gold : VBP Guess : VB    Count : 38.0
+Gold : VBP Guess : NNP    Count : 1.0
+Gold : VBP Guess : RP    Count : 1.0
+Gold : VBP Guess : VBD    Count : 1.0
+Gold : VBP Guess : UH    Count : 3.0
+Gold : VBP Guess : NN    Count : 14.0
+-------------------
+Gold : `` Guess : HYPH    Count : 2.0
+Gold : `` Guess : JJ    Count : 4.0
+Gold : `` Guess : ''    Count : 13.0
+Gold : `` Guess : POS    Count : 22.0
+Gold : `` Guess : RBR    Count : 2.0
+Gold : `` Guess : LS    Count : 102.0
+Gold : `` Guess : .    Count : 2.0
+Gold : `` Guess : FW    Count : 32.0
+Gold : `` Guess : NN    Count : 22.0
+Gold : `` Guess : VB    Count : 8.0
+Gold : `` Guess : VBP    Count : 2.0
+Gold : `` Guess : CD    Count : 62.0
+Gold : `` Guess : :    Count : 1.0
+Gold : `` Guess : WP$    Count : 2.0
+Gold : `` Guess : SYM    Count : 4.0
+Gold : `` Guess : MD    Count : 4.0
+Gold : `` Guess : VBZ    Count : 2.0
+-------------------
+Gold : PRP Guess : CD    Count : 1.0
+Gold : PRP Guess : POS    Count : 1.0
+Gold : PRP Guess : NN    Count : 1.0
+-------------------
+Gold : MD Guess : NNP    Count : 2.0
+Gold : MD Guess : PRP$    Count : 1.0
+-------------------
+Gold : SYM Guess : HYPH    Count : 2.0
+-------------------
+Gold : WDT Guess : WP    Count : 1.0
+Gold : WDT Guess : IN    Count : 9.0
+-------------------
+Gold : VBZ Guess : NNS    Count : 17.0
+Gold : VBZ Guess : NNP    Count : 1.0
+Gold : VBZ Guess : POS    Count : 4.0
+-------------------
+Gold : WP Guess : NNP    Count : 2.0
+-------------------
+Gold : IN Guess : VB    Count : 1.0
+Gold : IN Guess : VBP    Count : 1.0
+Gold : IN Guess : JJ    Count : 3.0
+Gold : IN Guess : CC    Count : 2.0
+Gold : IN Guess : RB    Count : 28.0
+Gold : IN Guess : DT    Count : 11.0
+Gold : IN Guess : TO    Count : 100.0
+Gold : IN Guess : RP    Count : 24.0
+Gold : IN Guess : JJS    Count : 2.0
+Gold : IN Guess : FW    Count : 1.0
+Gold : IN Guess : WDT    Count : 18.0
+Gold : IN Guess : NN    Count : 1.0
+-------------------
+Gold : '' Guess : JJ    Count : 14.0
+Gold : '' Guess : $    Count : 6.0
+Gold : '' Guess : AFX    Count : 8.0
+Gold : '' Guess : POS    Count : 9.0
+Gold : '' Guess : RBR    Count : 2.0
+Gold : '' Guess : LS    Count : 50.0
+Gold : '' Guess : FW    Count : 14.0
+Gold : '' Guess : NN    Count : 66.0
+Gold : '' Guess : VB    Count : 2.0
+Gold : '' Guess : PDT    Count : 1.0
+Gold : '' Guess : VBP    Count : 2.0
+Gold : '' Guess : CD    Count : 28.0
+Gold : '' Guess : PRP    Count : 2.0
+Gold : '' Guess : WP$    Count : 2.0
+Gold : '' Guess : SYM    Count : 2.0
+Gold : '' Guess : MD    Count : 4.0
+-------------------
+Gold : AFX Guess : NNP    Count : 8.0
+Gold : AFX Guess : NN    Count : 3.0
+-------------------
+Gold : POS Guess : AFX    Count : 1.0
+-------------------
+Gold : VBG Guess : NN    Count : 10.0
+-------------------
+Gold : VBD Guess : VBN    Count : 50.0
+Gold : VBD Guess : VBP    Count : 2.0
+Gold : VBD Guess : JJ    Count : 3.0
+Gold : VBD Guess : VBZ    Count : 1.0
+Gold : VBD Guess : NN    Count : 4.0
+-------------------
+Gold : ( Guess : CD    Count : 2.0
+Gold : ( Guess : NN    Count : 4.0
+-------------------
+Gold : ) Guess : LS    Count : 2.0
+-------------------
+Gold : , Guess : HYPH    Count : 14.0
+Gold : , Guess : :    Count : 21.0
+Gold : , Guess : FW    Count : 2.0
+Gold : , Guess : SYM    Count : 4.0
+-------------------
+Gold : UH Guess : VBP    Count : 1.0
+Gold : UH Guess : NN    Count : 1.0
+-------------------
+Gold : NNS Guess : NNPS    Count : 15.0
+Gold : NNS Guess : NNP    Count : 14.0
+Gold : NNS Guess : UH    Count : 2.0
+Gold : NNS Guess : NN    Count : 6.0
+Gold : NNS Guess : VBZ    Count : 20.0
+-------------------
+Gold : CC Guess : IN    Count : 1.0
+Gold : CC Guess : PDT    Count : 7.0
+Gold : CC Guess : RB    Count : 6.0
+Gold : CC Guess : DT    Count : 9.0
+-------------------
+Gold : NNP Guess : NNPS    Count : 18.0
+Gold : NNP Guess : VB    Count : 4.0
+Gold : NNP Guess : VBN    Count : 4.0
+Gold : NNP Guess : NNS    Count : 1.0
+Gold : NNP Guess : IN    Count : 6.0
+Gold : NNP Guess : JJ    Count : 58.0
+Gold : NNP Guess : CD    Count : 6.0
+Gold : NNP Guess : RB    Count : 1.0
+Gold : NNP Guess : LS    Count : 1.0
+Gold : NNP Guess : FW    Count : 2.0
+Gold : NNP Guess : NN    Count : 59.0
+-------------------
+Gold : CD Guess : NNP    Count : 18.0
+Gold : CD Guess : PRP    Count : 4.0
+Gold : CD Guess : LS    Count : 8.0
+Gold : CD Guess : NN    Count : 1.0
+-------------------
+Gold : : Guess : HYPH    Count : 2.0
+-------------------
+Gold : WRB Guess : IN    Count : 7.0
+-------------------
